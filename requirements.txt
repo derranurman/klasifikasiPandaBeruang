@@ -1,0 +1,12 @@
+flask
+tensorflow-cpu
+gunicorn
+pillow
+numpy
+
+click
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+
